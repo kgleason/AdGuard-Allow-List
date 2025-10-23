@@ -34,3 +34,7 @@
 ! @@||zoom.us^
 ! @@||*.zoom.us^
 ! @@||*.webex.com^
+
+! ==== TechTarget (blogs, storage, security, networking) ====
+@@||techtarget.com^
+@@||*.techtarget.com^
