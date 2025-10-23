@@ -65,7 +65,8 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 ---
 
 ## Changelog
-- **2025-08-19** → Initial commit (Microsoft 365, Salesforce, Slack, Chrome/Google core services).  
+- **2025-08-19** → Initial commit (Microsoft 365, Salesforce, Slack, Chrome/Google core services).
+- **2025-10-23** → Added TechTarget as an allowed blog
 
 [Back to top](#adguard-allow-list)
 
