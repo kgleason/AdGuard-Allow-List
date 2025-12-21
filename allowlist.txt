@@ -38,3 +38,11 @@
 ! ==== TechTarget (blogs, storage, security, networking) ====
 @@||techtarget.com^
 @@||*.techtarget.com^
+
+! === NY Times
+@@||samizdat-graphql.nytimes.com^
+@@||*.samizdat-graphql.nytimes.com^
+
+! == Weather Channel
+@@||weather.com^
+@@||*.weather.com^
