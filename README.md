@@ -11,11 +11,12 @@ The goal is to keep **ad/tracker blocking strong** while ensuring essential work
 - [Repository Contents](#repository-contents)
 - [How to Use](#how-to-use)
 - [Notes](#notes)
-- [Changelog](#changelog)
 
 ---
 
-## Purpose
+## Objective
+Maintain **privacy + usability** balance — keep trackers out while ensuring workflows stay smooth.  
+
 AdGuard Home is very aggressive with blocking telemetry and tracking services.  
 While this is great for privacy, some SaaS apps (Slack, Teams, Salesforce, Outlook, etc.) can break if critical domains are blocked.
 
@@ -30,7 +31,9 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 - **Salesforce** → CRM core, platform, live agent  
 - **Slack** → app, APIs, CDN, messaging  
 - **Google Core** → Chrome sync, authentication, APIs  
-- (Optional) Zoom/Webex → commented out for now, can be enabled if needed  
+- Zoom/Webex → commented out for now, can be enabled if needed  
+- NY Times
+- Weather Channel
 
 [Back to top](#adguard-allow-list)
 
@@ -64,12 +67,4 @@ This repo provides a **curated list of allowed domains** so these apps work norm
 
 ---
 
-## Changelog
-- **2025-08-19** → Initial commit (Microsoft 365, Salesforce, Slack, Chrome/Google core services).
-- **2025-10-23** → Added TechTarget as an allowed blog
 
-[Back to top](#adguard-allow-list)
-
----
-
-Goal: Maintain **privacy + usability** balance — keep trackers out while ensuring workflows stay smooth.  

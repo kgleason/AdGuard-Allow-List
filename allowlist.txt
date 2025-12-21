@@ -25,15 +25,15 @@
 @@||slack-msgs.com^
 
 ! ==== Chrome / Google dependencies commonly used by apps ====
-@@||accounts.google.com^
-@@||*.gstatic.com^
-@@||*.googleapis.com^
-@@||*.googleusercontent.com^
+!@@||accounts.google.com^
+!@@||*.gstatic.com^
+!@@||*.googleapis.com^
+!@@||*.googleusercontent.com^
 
 ! (Optional) If you ever use Zoom or Webex frequently, add:
-! @@||zoom.us^
-! @@||*.zoom.us^
-! @@||*.webex.com^
+@@||zoom.us^
+@@||*.zoom.us^
+@@||*.webex.com^
 
 ! ==== TechTarget (blogs, storage, security, networking) ====
 @@||techtarget.com^
