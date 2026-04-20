@@ -46,3 +46,7 @@
 ! == Weather Channel
 @@||weather.com^
 @@||*.weather.com^
+
+| == Job Search related things
+@@||demandbase.com
+@@||*.demandbase.com
