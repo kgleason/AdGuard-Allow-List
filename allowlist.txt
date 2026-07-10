@@ -47,11 +47,11 @@
 @@||weather.com^
 @@||*.weather.com^
 
-| == Job Search related things
-@@||demandbase.com
-@@||*.demandbase.com
+! == Job Search related things
+@@||demandbase.com^
+@@||*.demandbase.com^
 
-| == Call Tracking Metrics
-@@||calltrackingmetrics.com
-@@||*.calltracking metrics.com
+! == Call Tracking Metrics
+@@||calltrackingmetrics.com^
+@@||*.calltrackingmetrics.com^
 
